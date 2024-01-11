@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704862111 source:c:\users\romario\downloads\finalproject\main.cpp
+	"header.h"
+	<iostream>
+
+1704949539 c:\users\romario\downloads\finalproject\header.h
+	<iostream>
+
+1704954652 source:c:\users\romario\downloads\finalproject\menu.cpp
+	"header.h"
+
+1704952813 source:c:\users\romario\downloads\finalproject\studenthighschoolbimble.cpp
+	"header.h"
+
